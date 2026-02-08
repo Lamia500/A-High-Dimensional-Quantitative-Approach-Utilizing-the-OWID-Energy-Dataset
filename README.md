@@ -15,11 +15,11 @@ This project presents a high-dimensional quantitative approach to predict nation
 4. **Optimization:** Systematic hyperparameter tuning through Grid Search with Cross-Validation.
 
 ### **Technical Stack**
-* [cite_start]**Programming:** Python (Advanced), MATLAB (Advanced)[cite: 268].
-* [cite_start]**Frameworks & Libraries:** SciPy.optimize, Scikit-learn, Pandas, NumPy[cite: 269].
-* [cite_start]**Statistical Analysis:** SmartPLS (SEM-PLS Analysis), SPSS[cite: 269].
+**Programming:** Python (Advanced), MATLAB (Advanced).
+**Frameworks & Libraries:** SciPy.optimize, Scikit-learn, Pandas, NumPy
+**Statistical Analysis:** SmartPLS (SEM-PLS Analysis), SPSS
 
 ### **Publication & Recognition**
-* [cite_start]**Journal:** Accepted in a **Q1 Journal**[cite: 255].
-* **Title:** *Stochastic Multivariate Regression with Feature Engineering for Predictive Analysis of Renewable Energy Consumption Dynamics: A High-Dimensional Quantitative Approach Utilizing the OWID Energy Dataset*.
-* [cite_start]**Author Contribution:** 5th Author[cite: 255].
+**Journal:** Accepted in a **Q1 Journal**
+**Title:** *Stochastic Multivariate Regression with Feature Engineering for Predictive Analysis of Renewable Energy Consumption Dynamics: A High-Dimensional Quantitative Approach Utilizing the OWID Energy Dataset*.
+  **Author Contribution:** 5th Author.
